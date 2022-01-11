@@ -1,0 +1,1 @@
+// Clase 002 de JavaScript
